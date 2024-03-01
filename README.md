@@ -1,15 +1,16 @@
-# layout
+# Summary
 
-A new Flutter project.
+Introduction to building user interfaces in a flutter app.
 
-## Getting Started
+## Building UI with Widgets
 
-This project is a starting point for a Flutter application.
+- Flutter uses a widget-based approach to building user interfaces. Everything in Flutter is a widget, from simple elements like buttons and text to more complex layouts.
+  
+- There are two types of widgets: StatelessWidget and StatefulWidget.
+  
+  - StatelessWidget: A widget that does not change over time (immutable). For example, a button or a text label.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  - StatefulWidget: A widget that can change over time (mutable). For example, a checkbox or a form.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
